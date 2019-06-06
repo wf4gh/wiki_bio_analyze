@@ -1,129 +1,136 @@
-infobox_type,count,belong_to_1,belong_to_2,belong_to_3,belong_to_4
-Infobox Buddha,21,Religious person,,,
-Infobox Christian leader,11129,Religious person,,,
-Infobox clergy,615,Religious person,,,
-Infobox Jewish leader,459,Religious person,,,
-Infobox Latter Day Saint biography,675,Religious person,,,
-Infobox rebbe,96,Religious person,,,
-Infobox religious biography,1707,Religious person,,,
-Infobox saint,3805,Religious person,,,
-Infobox Egyptian dignitary,198,Royalty and nobility,,,
-Infobox noble,4895,Royalty and nobility,,,
-Infobox peer,435,Royalty and nobility,,,
-Infobox pharaoh,371,Royalty and nobility,,,
-Infobox pretender,27,Royalty and nobility,,,
-Infobox royalty,14801,Royalty and nobility,,,
-Infobox college football player,1412,Sportsperson,American football person,,
-Infobox CFL biography,6504,Sportsperson,American football person,,
-Infobox NFL biography,19962,Sportsperson,American football person,,
-Infobox baseball biography,22036,Sportsperson,Baseball person,,
-Infobox basketball biography,23048,Sportsperson,Basketball person,,
-Infobox Champ Car driver,121,Sportsperson,Motorsports person,,
-Infobox F1 driver,1,Sportsperson,Motorsports person,,
-Infobox Le Mans driver,392,Sportsperson,Motorsports person,,
-Infobox Motocross rider,117,Sportsperson,Motorsports person,,
-Infobox motorcycle rider,1327,Sportsperson,Motorsports person,,
-Infobox NASCAR driver,1162,Sportsperson,Motorsports person,,
-Infobox racing driver,2457,Sportsperson,Motorsports person,,
-Infobox racing driver series section,1236,Sportsperson,Motorsports person,,
-Infobox speedway rider,744,Sportsperson,Motorsports person,,
-Infobox WRC driver,301,Sportsperson,Motorsports person,,
-Infobox sportsperson,52256,Sportsperson,Other sportsperson,,
-Infobox biathlete,231,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox boxer (amateur),441,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox climber,145,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox professional bowler,25,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox sailor,859,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox speed skater,565,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox sport wrestler,175,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox swimmer,7875,Sportsperson,Other sportsperson,Infobox sportsperson,Wrappers
-Infobox bullfighting career,12,Sportsperson,Other sportsperson,Infobox sportsperson,Modules
-Infobox AFL biography,13238,Sportsperson,Other sportsperson,,
-Infobox alpine ski racer,514,Sportsperson,Other sportsperson,,
-Infobox amateur wrestler,453,Sportsperson,Other sportsperson,,
-Infobox badminton player,2131,Sportsperson,Other sportsperson,,
-Infobox bandy biography,27,Sportsperson,Other sportsperson,,
-Infobox bodybuilder,303,Sportsperson,Other sportsperson,,
-Infobox boxer,4300,Sportsperson,Other sportsperson,,
-Infobox cricketer,22455,Sportsperson,Other sportsperson,,
-Infobox curler,831,Sportsperson,Other sportsperson,,
-Infobox cyclist,12209,Sportsperson,Other sportsperson,,
-Infobox equestrian,160,Sportsperson,Other sportsperson,,
-Infobox fencer,459,Sportsperson,Other sportsperson,,
-Infobox field hockey player,359,Sportsperson,Other sportsperson,,
-Infobox figure skater,3577,Sportsperson,Other sportsperson,,
-Infobox football biography,149852,Sportsperson,Other sportsperson,,
-Infobox football official,753,Sportsperson,Other sportsperson,,
-Infobox Gaelic Athletic Association player,3832,Sportsperson,Other sportsperson,,
-Infobox golfer,3461,Sportsperson,Other sportsperson,,
-Infobox gymnast,2461,Sportsperson,Other sportsperson,,
-Infobox handball biography,3077,Sportsperson,Other sportsperson,,
-Infobox horseracing personality,913,Sportsperson,Other sportsperson,,
-Infobox ice hockey player,15885,Sportsperson,Other sportsperson,,
-Infobox lacrosse player,438,Sportsperson,Other sportsperson,,
-Infobox martial artist,4040,Sportsperson,Other sportsperson,,
-Infobox mountaineer,46,Sportsperson,Other sportsperson,,
-Infobox NCAA athlete,208,Sportsperson,Other sportsperson,,
-Infobox netball biography,275,Sportsperson,Other sportsperson,,
-Infobox National Hockey League coach,46,Sportsperson,Other sportsperson,,
-Infobox pelotari,16,Sportsperson,Other sportsperson,,
-Infobox professional wrestler,3504,Sportsperson,Other sportsperson,,
-Infobox rugby biography,10632,Sportsperson,Other sportsperson,,
-Infobox rugby league biography,7056,Sportsperson,Other sportsperson,,
-Infobox skier,1647,Sportsperson,Other sportsperson,,
-Infobox sports announcer details,93,Sportsperson,Other sportsperson,,
-Infobox squash player,440,Sportsperson,Other sportsperson,,
-Infobox sumo wrestler,500,Sportsperson,Other sportsperson,,
-Infobox surfer,178,Sportsperson,Other sportsperson,,
-Infobox table tennis player,588,Sportsperson,Other sportsperson,,
-Infobox tennis biography,5912,Sportsperson,Other sportsperson,,
-Infobox volleyball biography,4551,Sportsperson,Other sportsperson,,
-Infobox person,290129,Other person,,,
-Infobox academic,2071,Other person,Infobox person,,
-Infobox architect,2419,Other person,Infobox person,,
-Infobox artist,17354,Other person,Infobox person,,
-Infobox chef,699,Other person,Infobox person,,
-Infobox clergy,615,Other person,Infobox person,,
-Infobox classical composer,169,Other person,Infobox person,,
-Infobox criminal,2901,Other person,Infobox person,,
-Infobox dancer,335,Other person,Infobox person,,
-Infobox economist,1468,Other person,Infobox person,,
-Infobox engineer,847,Other person,Infobox person,,
-Infobox engineering career,932,Other person,Infobox person,Infobox engineer,
-Infobox medical details,778,Other person,Infobox person,,
-Infobox medical person,686,Other person,Infobox person,,
-Infobox model,2060,Other person,Infobox person,,
-Infobox pageant titleholder,2547,Other person,Infobox person,,
-Infobox philosopher,2293,Other person,Infobox person,,
-Infobox pirate,154,Other person,Infobox person,,
-Infobox police officer,398,Other person,Infobox person,,
-Infobox presenter,601,Other person,Infobox person,,
-Infobox scientist,28453,Other person,Infobox person,,
-Infobox sports announcer,61,Other person,Infobox person,,
-Infobox spy,184,Other person,Infobox person,,
-Infobox theologian,177,Other person,Infobox person,,
-Infobox theological work,177,Other person,Infobox person,Infobox theologian,
-Infobox astronaut,706,Other person,,,
-Infobox aviator,234,Other person,,,
-Infobox chess biography,1671,Other person,,,
-Infobox college coach,7659,Other person,,,
-Infobox comedian,1696,Other person,,,
-Infobox comics creator,3042,Other person,,,
-Infobox darts player,701,Other person,,,
-Infobox FBI Ten Most Wanted,82,Other person,,,
-Infobox go player,243,Other person,,,
-Infobox gunpowder plotter,15,Other person,,,
-Infobox Magic: The Gathering player,104,Other person,,,
-Infobox member of the Knesset,941,Other person,,,
-Infobox military person,31618,Other person,,,
-Infobox musical artist,99555,Other person,,,
-Infobox Nahua officeholder,25,Other person,,,
-Infobox officeholder,120827,Other person,,,
-Infobox Native American leader,249,Other person,Infobox officeholder,,
-Infobox Playboy Playmate,311,Other person,,,
-Infobox poker player,713,Other person,,,
-Infobox snooker player,562,Other person,,,
-Infobox video game player,305,Other person,,,
-Infobox War on Terror detainee,385,Other person,,,
-Infobox writer,26788,Other person,,,
-Infobox YouTube personality,521,Other person,,,
+Infobox AM,Infobox Governor,1
+Infobox Canadian MP,Infobox senator,1
+Infobox Canadian senator,Infobox Mayor,1
+Infobox candidate,Infobox Politician,1
+Infobox civil servant,Infobox Chancellor,1
+Infobox chancellor,Infobox US Chief Justice,1
+Infobox congressional candidate,Infobox Vice President,1
+Infobox congressman,Infobox US Associate Justice,1
+Infobox defense minister,Infobox Indian politician,1
+Infobox deputy first minister,Infobox Congressman,1
+Infobox deputy prime minister,Infobox Governor General,1
+Infobox doge,Infobox US Cabinet official,1
+Infobox Eritrea cabinet official,Infobox Prime Minister,1
+Infobox first lady,Infobox US Territorial Governor,1
+Infobox first minister,Infobox Congressional Candidate,1
+Infobox governor,Infobox CanadianMP,0
+Infobox governor-elect,Infobox Lt Governor,1
+Infobox governor general,Infobox Eritrea Cabinet official,1
+Infobox governor-general,Infobox PM,1
+Infobox Indian politician,Infobox President,1
+Infobox judge,Infobox CanadianSenator,0
+Infobox lt governor,Infobox Governor-General,1
+Infobox mayor,Infobox university chancellor,0
+Infobox MEP,Infobox University Vice-Chancellor,0
+Infobox minister,Infobox University President,0
+Infobox MLA,Infobox University Rector,0
+Infobox MP,Infobox University Pro-Chancellor,0
+Infobox MSP,Infobox SCC Puisne Justice,1
+Infobox PM,Infobox SCC Chief Justice,1
+Infobox politician,Infobox Representative Elect,0
+Infobox politician (general),Infobox Senator-Elect,1
+Infobox premier,Infobox Governor-Elect,1
+Infobox president,Infobox State SC Justice,1
+Infobox president-elect,Infobox State SC Associate Justice,1
+Infobox prime minister,Infobox Politician (general),1
+Infobox prime minister-elect,Infobox US Ambassador,1
+Infobox representative-elect,Infobox MP,1
+Infobox SCC chief justice,Infobox State Representative,1
+Infobox SCC puisne justice,Infobox State Senator,1
+Infobox secretary-general,Infobox Judge,1
+Infobox senator,Infobox Premier,1
+Infobox senator-elect,Infobox Secretary-General,1
+Infobox speaker,Infobox Ambassador,0
+Infobox state representative,Infobox President-elect,1
+Infobox state SC associate justice,Infobox Prime Minister-elect,1
+Infobox state SC justice,Infobox AM,1
+Infobox state senator,Infobox Speaker,1
+Infobox US ambassador,Infobox First Minister,1
+Infobox US associate justice,Infobox Minister,1
+Infobox US cabinet official,Infobox Deputy Prime Minister,1
+Infobox US chief justice,Infobox Deputy First Minister,1
+Infobox US territorial governor,Infobox Representative-elect,1
+Infobox vice president,Infobox Senator-elect,1
+,Infobox Governor-elect,1
+,Infobox QuebecMNA,0
+,Infobox MEP,1
+,Infobox MLA,1
+,Infobox Congresswoman,0
+,Infobox Senator,1
+,Infobox Defense Minister,1
+,Infobox OntarioMPP,0
+,Infobox Uruguayan politician,0
+,Infobox New York State Senator,0
+,Infobox First Lady,1
+,Infobox Chief Justice,0
+,Infobox Indian government official,0
+,Infobox Doge,1
+,Infobox MSP,1
+,Infobox Chairman,0
+,Infobox candidate,1
+,Infobox University Chancellor,0
+,Infobox Officeholder,0
+,Infobox politician,1
+,Infobox judge,1
+,Infobox Member of Parliament,0
+,Infobox president,1
+,Infobox civil servant,1
+,Infobox Welsh Assembly member,0
+,Infobox General Secretary,0
+,Infobox Chief Executive,0
+,Infobox ambassador,0
+,Infobox prime minister,1
+,Infobox Canadian MP,1
+,Infobox Canadian senator,1
+,Infobox chancellor,1
+,Infobox congressional candidate,1
+,Infobox congressman,1
+,Infobox defense minister,1
+,Infobox deputy first minister,1
+,Infobox deputy prime minister,1
+,Infobox doge,1
+,Infobox first lady,1
+,Infobox first minister,1
+,Infobox governor,1
+,Infobox governor-elect,1
+,Infobox governor general,1
+,Infobox governor-general,1
+,Infobox lt governor,1
+,Infobox mayor,1
+,Infobox minister,1
+,Infobox politician (general),1
+,Infobox premier,1
+,Infobox president-elect,1
+,Infobox prime minister-elect,1
+,Infobox representative-elect,1
+,Infobox SCC chief justice,1
+,Infobox SCC puisne justice,1
+,Infobox secretary-general,1
+,Infobox senator-elect,1
+,Infobox speaker,1
+,Infobox state representative,1
+,Infobox state SC associate justice,1
+,Infobox state SC justice,1
+,Infobox state senator,1
+,Infobox US associate justice,1
+,Infobox US cabinet official,1
+,Infobox US chief justice,1
+,Infobox US territorial governor,1
+,Infobox vice president,1
+,Infobox US ambassador,1
+,Infobox Eritrea cabinet official,1
+,Infobox Candidate,1
+,Politician infobox,0
+,Officeholder,0
+,Infobox office holder,0
+,Infobox defence minister,0
+,Infobox MPP,0
+,Officeholder infobox,0
+,Member of State Duma,0
+,Infobox Vice-President,0
+,Infobox league commissioner,0
+,Infobox Politicien,0
+,Infobox Ukrainian legislative office,0
+,People's deputy,0
+,Infobox Politician Basic,0
+,Infobox general secretary,0
